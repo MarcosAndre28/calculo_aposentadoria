@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculo aposentadoria</string>
+    <string name="calcule_aposentadoria">Calcule quanto tempo falta para sua aposentadoria !</string>
+    <string name="calcular">Calcular</string>
+    <string name="digite_sua_idade">Digite sua idade:</string>
+    <string name="escolha_o_sexo">Escolha o sexo:</string>
+    <string name="calcule_quanto_tempo">Calcule quanto tempo falta para sua aposent adoria !</string>
+</resources>
